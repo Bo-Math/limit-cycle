@@ -2,7 +2,7 @@
 
 The main functions implemented in "Limit_Cycle_Maple_Code" are
 
-# NormalForm(P,Q,p,q,k)
+# NormalForm(P, Q, p, q, k)
 
 -Computes the normal form of averaging up to k-th order in epsilon
 
